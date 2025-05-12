@@ -1,9 +1,8 @@
 streamlit
 scikit-learn
 tensorflow
-torch
+torch==1.12.0
 transformers
-gensim
+gensim==4.1.0
 nltk
-scipy>=1.4.0
-
+scipy==1.8.0
